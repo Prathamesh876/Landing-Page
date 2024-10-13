@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100vh;
+    width: 100%;
+}
+
+body{
+    background-color: #433878;
+}
+
+
+
+/* .container{
+   display: flex;
+   height: 600px;
+   width: 100%;
+   background-color: lightcyan; 
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+.box1{
+    height: 270px;
+    width: 270px;
+    background-color: aqua;
+}
+
+
+.box2{
+    height: 270px;
+    width: 270px;
+    background-color: rgb(99, 0, 114);
+}
+
+.Stagger1{
+    color: pink;
+    font-size: 50px;
+}
+.Stagger2{
+    color: yellow;
+    font-size: 50px;
+}
+ */
+
+
+
+
+
+
+
+ .box1{
+    height: 300px;
+    width: 300px;
+    background-color: #FFE1FF;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: #E4B1F0;
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: #C0EBA6;
+}
